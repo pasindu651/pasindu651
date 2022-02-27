@@ -1,3 +1,4 @@
+<samp>
 <h1 align="center">Hi 👋, I'm Pasindu</h1>
 <h3 align="center">A student at Colonel By and passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
@@ -24,3 +25,4 @@
 -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu651&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="pasindu651" /></p>
+</samp>
