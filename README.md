@@ -1,6 +1,6 @@
 <samp>
 <h1 align="center">Hi 👋, I'm Pasindu</h1>
-<h3 align="center">A student at Colonel By and passionate developer</h3>
+<h3 align="center">A passionate developer and student at Colonel By</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 - ☕Want to talk? Find me on Instagram [@pasindu.md](@pasindu.md)
