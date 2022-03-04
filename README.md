@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/pasindu-danthanarayana-9a38b118a](www.linkedin.com/in/pasindu-danthanarayana-9a38b118a)
 
-- 🐍 My favourite language is **Python**
+- 🐍 My favourite languages are **Python** and **Javascript**
 
 <!--
 <h3 align="left">Connect with me:</h3>
