@@ -6,7 +6,7 @@
 
 - 📫 Reach me at **danthe.pasindu@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/pasindu-danthanarayana-9a38b118a](www.linkedin.com/in/pasindu-danthanarayana-9a38b118a)
+- 📄 Know about my experiences [www.linkedin.com/in/pasindu-danthanarayana-9a38b118a](https://www.linkedin.com/in/pasindu-danthanarayana-9a38b118a/)
 
 - 🐍 My favourite languages are **Python** and **Javascript**
 
