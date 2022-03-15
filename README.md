@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and student at Colonel By</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
-- ☕Want to talk? Find me on Instagram [@pasindu.md](@pasindu.md)
+- ☕Want to talk? Find me on Instagram [https://www.instagram.com/pasindu.md/](@pasindu.md)
 
 - 📫 Reach me at **danthe.pasindu@gmail.com**
 
