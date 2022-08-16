@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Pasindu</h1>
-<h3>A passionate developer and student at Colonel By</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 - ☕Want to talk? Find me on Instagram [@pasindu.md](https://www.instagram.com/pasindu.md/)
