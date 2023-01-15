@@ -40,6 +40,7 @@
 ![P5js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&logoColor=FFFFFF&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/threejs-black?logo=three.js&logoColor=white&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
