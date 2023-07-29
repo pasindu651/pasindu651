@@ -9,6 +9,8 @@
 
 - 🐍 My favourite languages are **Python** and **Javascript**
 
+- 💽 I love **hardware** and **microcontrollers**
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
