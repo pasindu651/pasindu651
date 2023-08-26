@@ -1,5 +1,5 @@
 # 👋🏽 Hi, I'm Pasindu:
-🛠️ I'm currently working on building a smart Go-kart<br>🌱 I'm currently learning microcontrollers <br>💼 My most recent internship was [@Nokia](https://github.com/nokia)<br>☕ Find me on Instagram [@pasindu.md](https://instagram.com/pasindu.md)<br>💭 I like learning about machine learning, hardware, and networking <br>⚡Fun facts: I like photography, working out, and graphic design  
+🛠️ I'm currently working on building a smart Go-kart<br>🌱 I'm currently learning about the world of microcontrollers <br>💼 My most recent internship was [@Nokia](https://github.com/nokia)<br>☕ Find me on Instagram [@pasindu.md](https://instagram.com/pasindu.md)<br>💭 I like learning about machine learning, hardware, and networking <br>⚡Fun facts: I like photography, working out, and graphic design  
 
 
 ## 🌐 Socials:
